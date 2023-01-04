@@ -1,5 +1,5 @@
 # Hey there , welcome to my page! 👋👋👋
-## I'm [Tristan Wang!](https://www.linkedin.com/in/tristan-wang-4339a896/) Real estate professional turned programmer. Who needs video games when you can solve endless puzzles in programming? Self taught through freecodecamp and udemy, my skills include Javascript, HTML, CSS, and Node.js. I aspire to be like Ash Ketchum, so that one day I will have enough experience to become a pokemo- no I mean programming master.  
+## I'm [Tristan Wang!](https://www.linkedin.com/in/tristan-wang-4339a896/) Real estate professional turned programmer. Who needs video games when you can solve endless puzzles in programming? Self taught through freecodecamp and udemy, my skills include Javascript, HTML, CSS, and Node.js. I aspire to be like Ash Ketchum, so that one day I too will have enough experience to become a pokemo- no I mean programming master.  
 
 <p>
 <img alt="javascript" src="https://img.shields.io/badge/-Javascript-FFFB14?style=flat-square&logo=javascript&logoColor=black" />
