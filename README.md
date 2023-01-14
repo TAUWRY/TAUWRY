@@ -1,5 +1,5 @@
 # Hey there , welcome to my page! 👋👋👋
-## I'm [Tristan!](https://www.linkedin.com/in/tristan-wang-4339a896/)  Real estate professional turned programmer. Self taught through freecodecamp and udemy, my skills include Javascript, HTML, CSS, SQL, Node.js, Express.js, and React.js. I aspire to be like Ash Ketchum, so that one day I too will have enough experience to become a pokem- no I mean programming master.  
+## I'm [Tristan!](https://www.linkedin.com/in/tristan-wang-4339a896/)  Real estate professional turned programmer. Self taught through freecodecamp and udemy, my skills include Javascript, HTML/CSS, SQL, Node.js, and React.js. I aspire to be like Ash Ketchum, so that one day I too can become a pokem- no I mean programming master.  
 
 <p>
 <img alt="javascript" src="https://img.shields.io/badge/-Javascript-FFFB14?style=flat-square&logo=javascript&logoColor=black" />
