@@ -11,4 +11,4 @@
   
   </p>
   
-  <img align="left" height="270px" width="450px" alt="GIF" src="https://img.buzzfeed.com/buzzfeed-static/static/2022-05/5/17/enhanced/0e5abdc3e27e/original-866-1651770354-3.jpg">
+  <img align="left"  alt="GIF" src="https://s3.amazonaws.com/rails-camp-tutorials/blog/programming+memes/programming-or-googling.jpg">
