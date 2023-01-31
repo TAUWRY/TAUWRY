@@ -11,4 +11,4 @@
   
   </p>
   
-  <img align="left"  alt="GIF" src="https://s3.amazonaws.com/rails-camp-tutorials/blog/programming+memes/programming-or-googling.jpg">
+  <img align="left"  alt="GIF" src="https://s3.amazonaws.com/rails-camp-tutorials/blog/programming+memes/works-doesnt-work.jpg">
