@@ -1,5 +1,5 @@
 # Hey there , welcome to my page! 👋👋👋
-## I'm [Tristan!](https://www.linkedin.com/in/tristan-wang-4339a896/)  Experienced web developer specializing in Javascript, TypeScript, HTML/CSS, SQL, Node.js, and React.js. Critical thinker and always on the lookout for the latest innovations in technology. 
+## I'm [Tristan!](https://www.linkedin.com/in/tristan-wang-4339a896/)  Web Developer always on the lookout for the latest innovations in technology. 
 
 <p>
 <img alt="javascript" src="https://img.shields.io/badge/-Javascript-FFFB14?style=flat-square&logo=javascript&logoColor=black" />
